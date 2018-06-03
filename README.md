@@ -25,3 +25,7 @@ Wrapper so `gradlew` from the command line should download everything you need. 
 The use of JBehave in this instance is to provide you with our definition of done for the task.
 
 Please ensure that you are familiar with our values in the instructions project.  They are important to us.
+
+## Development steps
+i have developed it using Eclipse sts
+in main class i put some sop for print the output in console
