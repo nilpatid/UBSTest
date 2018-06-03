@@ -85,12 +85,6 @@ public class BerlinClock implements TimeConverter{
         return lit + unlit;
     }
 
-    
-public static void main(String[] args) {
-	System.out.println("====== Berlin Clock ======");
-	BerlinClock clock=new BerlinClock();
-    System.out.println(clock.convertTime("24:00:00"));
-    System.out.println("==========================");
-}
+
 
 }

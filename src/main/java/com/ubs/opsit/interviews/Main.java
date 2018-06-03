@@ -8,7 +8,6 @@ public class Main {
         System.out.println("====== Berlin Clock ======");
         System.out.println(clock.convertTime(args[0]));
         System.out.println("==========================");
-        System.out.println("==========================");
     }
 
 }
